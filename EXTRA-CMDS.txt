@@ -1,0 +1,18 @@
+Switching between Crypt-Modes:
+
+0x0400: DES-Mode
+0x0401: Passthrough-mode (first 8 Bytes from ECM will returned back as CW)
+0x0402: XTEA-Mode (ECM and Signature has to be passed)
+
+Switching ATR:
+0x1400: Premiere DE
+0x1401: C+ France
+0x1402: C+ Poland
+0x1410: Premiere DE + Date-Checking
+0x1411: C+ France + Date-Checking
+0x1412: C+ Poland + Date-Checking
+
+
+Update DES-Key:
+
+24 0Y XX XX XX XX XX XX XX XX = Update DES-Key 0Y 00...0F

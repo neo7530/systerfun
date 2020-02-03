@@ -1,0 +1,100 @@
+# depslib dependency file v1.0
+1575372110 source:r:\syster-smartcard\fuse.c
+	<avr/io.h>
+
+1575379774 source:r:\syster-smartcard\io.c
+	<avr/io.h>
+	<avr/pgmspace.h>
+	<avr/interrupt.h>
+	"io.h"
+
+1574772687 r:\syster-smartcard\config.h
+
+1575372393 r:\syster-smartcard\io.h
+	<avr/io.h>
+	<avr/pgmspace.h>
+	<avr/interrupt.h>
+
+1575382649 source:r:\syster-smartcard\main.c
+	<avr/io.h>
+	<avr/pgmspace.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	"io.h"
+	<string.h>
+	<avr/eeprom.h>
+
+1575372110 source:c:\freebasic\basic workspace\freebasic\crypto\bmp-crypto\syster\funcard-emu-bascom\syster\syster-smartcard_gcc\fuse.c
+	<avr/io.h>
+
+1575379774 source:c:\freebasic\basic workspace\freebasic\crypto\bmp-crypto\syster\funcard-emu-bascom\syster\syster-smartcard_gcc\io.c
+	<avr/io.h>
+	<avr/pgmspace.h>
+	<avr/interrupt.h>
+	"io.h"
+
+1575372393 c:\freebasic\basic workspace\freebasic\crypto\bmp-crypto\syster\funcard-emu-bascom\syster\syster-smartcard_gcc\io.h
+	<avr/io.h>
+	<avr/pgmspace.h>
+	<avr/interrupt.h>
+
+1575828612 source:c:\freebasic\basic workspace\freebasic\crypto\bmp-crypto\syster\funcard-emu-bascom\syster\syster-smartcard_gcc\main.c
+	<avr/io.h>
+	<avr/pgmspace.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	"io.h"
+	<string.h>
+	<avr/eeprom.h>
+
+1575372110 source:r:\syster-smartcard_gcc\fuse.c
+	<avr/io.h>
+
+1575379774 source:r:\syster-smartcard_gcc\io.c
+	<avr/io.h>
+	<avr/pgmspace.h>
+	<avr/interrupt.h>
+	"io.h"
+
+1575372393 r:\syster-smartcard_gcc\io.h
+	<avr/io.h>
+	<avr/pgmspace.h>
+	<avr/interrupt.h>
+
+1578551785 source:r:\avrng-syster\fuse.c
+	<avr/io.h>
+
+1578551785 source:r:\avrng-syster\io.c
+	"config.h"
+	<avr/io.h>
+	<avr/pgmspace.h>
+	<avr/interrupt.h>
+	"io.h"
+
+1578551785 r:\avrng-syster\config.h
+
+1578551785 r:\avrng-syster\io.h
+	"config.h"
+	<avr/io.h>
+	<avr/pgmspace.h>
+	<avr/interrupt.h>
+
+1578586176 source:r:\avrng-syster\systerdes.c
+	<stdio.h>
+	<string.h>
+	"systerdes.h"
+	<avr/pgmspace.h>
+
+1578586176 r:\avrng-syster\systerdes.h
+
+1578589153 source:r:\avrng-syster\main.c
+	"config.h"
+	<avr/io.h>
+	<avr/pgmspace.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+	"io.h"
+	<string.h>
+	<avr/eeprom.h>
+	"systerdes.h"
+
